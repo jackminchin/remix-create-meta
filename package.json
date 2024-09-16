@@ -22,5 +22,26 @@
   "bugs": {
     "url": "https://github.com/jackminchin/remix-create-meta/issues"
   },
-  "homepage": "https://github.com/jackminchin/remix-create-meta#readme"
+  "homepage": "https://github.com/jackminchin/remix-create-meta#readme",
+  "keywords": [
+    "remix",
+    "seo",
+    "meta",
+    "meta tags",
+    "open graph",
+    "twitter card",
+    "seo optimization",
+    "remix utility",
+    "remix seo",
+    "react",
+    "typescript",
+    "node",
+    "seo tools",
+    "remix functions",
+    "seo helper",
+    "remix meta",
+    "seo enhancement",
+    "web development",
+    "javascript"
+  ]
 }
