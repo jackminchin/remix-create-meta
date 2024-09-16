@@ -1,0 +1,26 @@
+{
+  "name": "remix-create-meta",
+  "version": "0.0.1",
+  "description": "A utility function to simplify creating SEO-optimized meta tags for Remix applications.",
+  "scripts": {
+    "build": "tsc"
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.6.2"
+  },
+  "dependencies": {
+    "@remix-run/node": "^2.12.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackminchin/remix-create-meta.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jackminchin/remix-create-meta/issues"
+  },
+  "homepage": "https://github.com/jackminchin/remix-create-meta#readme",
+}
